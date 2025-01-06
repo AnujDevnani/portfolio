@@ -22,10 +22,14 @@ const Home = () => {
             <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
               Hi, I'm <span className="text-blue-600">Anuj Devnani</span>
               <br />
+<<<<<<< Updated upstream
               Data scientist & Software
+=======
+              Data scientist & software Engineer
+>>>>>>> Stashed changes
             </h1>
             <p className="text-xl text-gray-600 mb-8">
-              data scientist, I analyze data to uncover patterns, trends, and insights that solve problems or support decision-making. I collect, clean, and organize data, then use tools like statistical models and visualizations to make the data understandable and actionable.
+              As a data scientist, I analyze data to uncover patterns, trends, and insights that solve problems or support decision-making. I collect, clean, and organize data, then use tools like statistical models and visualizations to make the data understandable and actionable.
 
               As a machine learning engineer, I build systems that let computers learn from data and make predictions or decisions on their own. I design, train, and optimize algorithms to handle tasks like recognizing images, predicting outcomes, or automating repetitive processes.
             </p>
