@@ -23,7 +23,11 @@ const Home = () => {
               Hi, I'm <span className="text-blue-600">Anuj Devnani</span>
               <br />
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               Data scientist & Software
+=======
+              Data scientist & software Engineer
+>>>>>>> Stashed changes
 =======
               Data scientist & software Engineer
 >>>>>>> Stashed changes
